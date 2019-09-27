@@ -20,18 +20,30 @@
 * Document the API: [Click here](https://github.com/amalielandt/week39/blob/master/Wednesday/Documenting-a-REST-API.pdf)
 
 
-### Wednesday and Thuesday
+### Thuesday
 
-#### Excercise: REST, Error Handling, Rest Assured (this exercise is meant for two days) - Almost completed
-* I completed the part for wednesday, and the exercise: "Error Handling with JAX RS and ExceptionMappers" for thursday, but didn't have time to finish the last exercise: "Entity Classes with relations".
-* [Click here](https://github.com/amalielandt/week38/tree/master/WednesdayExercise/src) 
+#### Excercise: Single Origin Policy, and CORS with Java and JAX-RS - Solution completed
+* 
+* Exercise 1: 
+* Answers for Exercise: [Click here](https://github.com/amalielandt/week39/blob/master/Thursday/ThursdayExercise2.pdf)
+* Backend: [Click here](https://github.com/amalielandt/week39/tree/master/Thursday/ThursdayExercise_backend/src/main/java)
+* Frontend: [HTML](https://github.com/amalielandt/week39/blob/master/Thursday/ThursdayExercise_frontend/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Thursday/ThursdayExercise_frontend/src/index.js)
+
+* Exercise 2: 
+* Backend: [Click here](https://github.com/amalielandt/week39/tree/master/Thursday/WednesdayExercise/src/main/java)
+* Frontend: [HTML](https://github.com/amalielandt/week39/blob/master/Thursday/Thursday2/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Thursday/Thursday2/src/index.js)
+
+* Exercise 3:
+* Backend: [Link to droplet](https://salandt.dk/WednesdayExercise/api/person/all)
+* Frontend: [Link to surge](http://salandt.surge.sh/)
 
 ### Friday
 
-#### Exercise: Object Relational Mapping (exam-prep) (først givet i onsdags) - Solution completed
-* Answers to the exercise - [Click here](https://github.com/amalielandt/week38/blob/master/FridayExercise.pdf)
-* Netbeansproject - [Click here](https://github.com/amalielandt/week38/tree/master/FridayExercise/src/main/java) 
-* I didn't do the exercise: "JPA and JPQL (entity classes from existing table)", because of time pressure
+#### Exercise: Object Relational Mapping (exam-prep) (først givet i onsdags) - Almost completed
+* General part - [Click here](https://github.com/amalielandt/week39/blob/master/Friday/FridayExercise2.pdf)
+* Practical part - [HTML](https://github.com/amalielandt/week39/blob/master/Friday/FridayExercise/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Friday/FridayExercise/src/index.js)
+* I didn't do part 3 of the practical part, since I had some problems understanding the contruction of af Proxy server. But i made an atempt.
+* [Click here](https://github.com/amalielandt/week39/blob/master/Friday/FridayExerciseProxy/src/main/java/rest/ProxyResource.java)
  
 
  
