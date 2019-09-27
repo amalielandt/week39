@@ -2,16 +2,30 @@
 
 ### Tuesday
 
-#### Excercise: JPA, relationships - Solution Completed
-* I had some problems with the ManyToMany relation, and I didn't quit figure it out. I had some problems with to many adresses and customers being mapped to the database, but the the methods in the facade works.
-* [Click here](https://github.com/amalielandt/week38/tree/master/TuesdayExercise/src/main/java)
+#### Excercise: JavaScript Exercises - Period 2 Day-1 - Solution Completed
+* I had some problems with part 2 of Reusable Modules with Closures, and I didn't quit figure it out. 
+* [Click here](https://github.com/amalielandt/week39/blob/master/Tuesday/TuesdayExercise.js)
+
+### Wednesday 
+
+#### Excercise: AJAX with fetch and DOM manipulation - Almost completed
+* I completed the part for wednesday, and the exercise: "Error Handling with JAX RS and ExceptionMappers" for thursday, but didn't have time to finish the last exercise: "Entity Classes with relations".
+
+* Exercise 1: [HTML](https://github.com/amalielandt/week39/blob/master/Wednesday/JokeExercise/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Wednesday/JokeExercise/src/index.js)
+
+* Exercise 2 and 3: [HTML](https://github.com/amalielandt/week39/blob/master/Wednesday/WednesdayExercise/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Wednesday/WednesdayExercise/src/index.js)
+
+* Exercise 4: [click here](https://github.com/amalielandt/week39/blob/master/Wednesday/WednesdayExercise.pdf) 
+* Backend: [Click here](https://github.com/amalielandt/week39/tree/master/Wednesday/WednesdayExercise2_backend)
+* Frontend: [HTML](https://github.com/amalielandt/week39/blob/master/Wednesday/WednesdayExercise2_frontend/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Wednesday/WednesdayExercise2_frontend/src/index.js)
+* Document the API: [Click here](https://github.com/amalielandt/week39/blob/master/Wednesday/Documenting-a-REST-API.pdf)
+
 
 ### Wednesday and Thuesday
 
 #### Excercise: REST, Error Handling, Rest Assured (this exercise is meant for two days) - Almost completed
 * I completed the part for wednesday, and the exercise: "Error Handling with JAX RS and ExceptionMappers" for thursday, but didn't have time to finish the last exercise: "Entity Classes with relations".
 * [Click here](https://github.com/amalielandt/week38/tree/master/WednesdayExercise/src) 
-
 
 ### Friday
 
