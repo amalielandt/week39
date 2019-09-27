@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container" id="container">
+        <h1>Persons</h1>
+        <br><br>
+        <b id="error"></b>
+        <br><br>
+        <button id="getperson">Get Person</button>
+        <button id="addperson">Add Person</button>
+        <button id="deleteperson">Delete Person</button>
+          <input type="text" id="name" placeholder="Enter name"/>
+          <br><br>
+          <button id="editperson">Edit Person</button>
+          <input type="text" id="newname" placeholder="Enter new name"/>
+          <br><br>
+              <table id="table" class="table">
+                  <thead>
+                      <tr>              
+                          <th>Name</th>
+                      </tr>
+                  </thead>
+                  <tbody id="tablebody">
+                  </tbody>
+              </table>  
+      </div>
+
+  <script src="bundle.js"></script>
+</body>
+
+</html>
