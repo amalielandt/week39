@@ -42,7 +42,7 @@ Exercise 3:
 
 ### Friday
 
-#### Exercise: Object Relational Mapping (exam-prep) (først givet i onsdags) - Almost completed
+#### Exercise: JavaScript, DOM, AJAX, CORS and SVG - Almost completed
 * General part - [Click here](https://github.com/amalielandt/week39/blob/master/Friday/FridayExercise2.pdf)
 * Practical part - [HTML](https://github.com/amalielandt/week39/blob/master/Friday/FridayExercise/public/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Friday/FridayExercise/src/index.js)
 
