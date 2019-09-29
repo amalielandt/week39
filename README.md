@@ -5,6 +5,7 @@
 #### Excercise: JavaScript Exercises - Period 2 Day-1 - Solution Completed
 I had some problems with part 2 of Reusable Modules with Closures, and I didn't quit figure it out. 
 * [Click here](https://github.com/amalielandt/week39/blob/master/Tuesday/TuesdayExercise.js)
+* Solution to Exercise 4 d and e - [HTML](https://github.com/amalielandt/week39/blob/master/Tuesday/TuesdayExercise/src/main/webapp/index.html) and [JavaScript](https://github.com/amalielandt/week39/blob/master/Tuesday/TuesdayExercise/src/main/webapp/indexJS.js)
 
 ### Wednesday 
 
