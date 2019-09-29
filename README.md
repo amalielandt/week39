@@ -49,6 +49,11 @@ Exercise 3:
 
 I didn't do part 3 of the practical part, since I had some problems understanding the contruction of af Proxy server. But i made an atempt.
 * [Click here](https://github.com/amalielandt/week39/blob/master/Friday/FridayExerciseProxy/src/main/java/rest/ProxyResource.java)
+
  
+
+#### Frontend exercise (last part of exercise from last week)
+* [JavaScript](https://github.com/amalielandt/week39/blob/master/Thursday/Thursday2/src/index.js) and [HTML](https://github.com/amalielandt/week39/blob/master/Thursday/Thursday2/public/index.html)
+* [Link to surge](http://salandt.surge.sh/)
 
  
